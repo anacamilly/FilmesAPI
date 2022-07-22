@@ -11,5 +11,5 @@
 * [Validação de campos  (Spring Validation) e tratamento de ConstraingValidationException](https://github.com/anacamilly/FilmesAPI/tree/master/src/main/java/com/filmes/filmes/errors)
 
 ## Discentes:
-| [<img src="https://avatars.githubusercontent.com/u/90116902?v=4" width=115><br><sub>Ana Camilly</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/100950064?v=4" width=115><br><sub>Daniel</sub>](https://github.com/Danieu1) |  
+| [<img src="https://avatars.githubusercontent.com/u/90116902?v=4" width=115><br><sub>Ana Camilly</sub>](https://github.com/anacamilly) |  [<img src="https://avatars.githubusercontent.com/u/100950064?v=4" width=115><br><sub>Daniel</sub>](https://github.com/Danieu1) |  
 | :---: | :---: |
